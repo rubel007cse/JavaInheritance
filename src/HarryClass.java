@@ -12,6 +12,9 @@ public class HarryClass extends OsbornNorman{
         object.research_of_lifetime();
         object.diseases_of_harry();
 
+        // Inherting variable
+         int i = object.board_members;
+         System.out.println("Inherited board members are: "+i);
     }
 
 }

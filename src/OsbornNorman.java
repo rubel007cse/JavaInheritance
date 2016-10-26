@@ -3,6 +3,8 @@
  */
 public class OsbornNorman {
 
+    int board_members = 67;
+
     // a property containing method
     public void research_of_lifetime() {
         int papers = 50;
